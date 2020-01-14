@@ -235,9 +235,10 @@ a:hover {
   margin: 0 auto;
 }
 #head .title {
-  font-family: Alice, Georgia, serif;
-  font-size: 49px;
-  font-size: 3.0625rem;
+  font-family: Roboto, sans-serif;
+  font-size: 64px;
+  font-size: 4.0rem;
+  font-weight: bold;
 }
 #head .title a {
   text-decoration: none;
@@ -245,10 +246,11 @@ a:hover {
 }
 #head .tagline {
   display: block;
-  font-size: 14px;
-  font-size: 0.875rem;
-  line-height: 1.2em;
-  color: #7C7C7C;
+  font-size: 30px;
+  font-size: 1.7618rem;
+  font-weight: bold;
+  line-height: 1.5em;
+  color: #202020;
   margin: 5px 0 0;
 }
 #head .tagline b {
